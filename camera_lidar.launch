@@ -1,0 +1,8 @@
+<launch>
+
+    
+  <node name="cam" pkg="cam_test" type="cam.py" output="screen">
+  </node>  
+
+
+</launch>
